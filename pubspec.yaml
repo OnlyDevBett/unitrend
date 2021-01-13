@@ -1,0 +1,53 @@
+name: unitrend
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  google_sign_in:
+  firebase_auth: ^0.14.0+5
+  cloud_firestore:
+  rxdart:
+  image_picker:
+  file_picker:
+  firebase_storage:
+  location:
+  geocoder:
+  font_awesome_flutter:
+  shared_preferences:
+  cached_network_image: 2.0.0-rc
+  image: 2.1.4
+  auto_size_text: ^2.1.0
+  shimmer: ^1.1.1
+  swipedetector: ^1.2.0
+  flutter_skeleton: ^0.1.0+1
+  page_transition: ^1.1.5
+  custom_navigator:
+    git:
+      url: https://github.com/kjawadDeveloper/Custom-navigator.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/

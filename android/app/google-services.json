@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "278121499106",
+    "firebase_url": "https://unitrend-c5024.firebaseio.com",
+    "project_id": "unitrend-c5024",
+    "storage_bucket": "unitrend-c5024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278121499106:android:15b2c07e0a0900b50c91bb",
+        "android_client_info": {
+          "package_name": "com.brian.unitrend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278121499106-r0ogqq4jk5931o143jm7hrb3nrnchod9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brian.unitrend",
+            "certificate_hash": "ece7ec79f8d8645bf5669d33f2427b26d209120e"
+          }
+        },
+        {
+          "client_id": "278121499106-amjo5ajevk4e6t9m72mom1odrkhpgfs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIouv6s1v_Z1n1G7N3JafcXegqkJ-husY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278121499106-amjo5ajevk4e6t9m72mom1odrkhpgfs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
